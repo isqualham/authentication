@@ -1,0 +1,1 @@
+projeto com NextJS que realiza autenticação
